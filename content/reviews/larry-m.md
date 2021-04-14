@@ -5,7 +5,7 @@ featured: true
 weight: 1
 title: ""
 author: Larry M.
-url: //www.yelp.com/biz/sufishient-charters-holland?hrid=NRkcX5LflAQ1JsweBiwvYQ
+permalink: https://www.yelp.com/biz/sufishient-charters-holland?hrid=NRkcX5LflAQ1JsweBiwvYQ
 ---
 
 My son and I went out with SuFISHient last week while on vacation. They have a very nice boat with lots of room to fish. We had a great time with the team. The captain is very good with his boat and works hard to get us into the places where the fish are. He knows a lot about fishing in that area and what is biting and what the fish like.

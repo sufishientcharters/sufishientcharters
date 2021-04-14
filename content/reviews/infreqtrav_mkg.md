@@ -5,7 +5,7 @@ featured: true
 weight: 1
 title: ""
 author: InFreqTrav_mkg
-url: //www.tripadvisor.com/ShowUserReviews-g42310-d10515136-r672152163-SuFISHient_Charters-Holland_Ottawa_County_Michigan.html?m=19905
+permalink: https://www.tripadvisor.com/ShowUserReviews-g42310-d10515136-r672152163-SuFISHient_Charters-Holland_Ottawa_County_Michigan.html?m=19905
 ---
 
 Went fishing for the first time With my wife and teen boys. Jeff was very knowledgeable and patient with our first timer questions.
