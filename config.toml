@@ -1,30 +1,30 @@
-baseURL = "www.example.com"
+baseURL = "https://www.sufishientcharters.com/"
 languageCode = "en-us"
-title = "Hugo Hero Theme"
-themesDir = "../.."
-theme = "hugo-hero-theme"
+title = "SuFISHient Charters"
+theme = "hero"
 
 [params]
   google_analytics_id=""
 
   [params.homepage_meta_tags]
-    meta_description = "Hero is a multipurpose Hugo theme with fullscreen hero images and page sections. It contains content types for a business or portfolio site."
-    meta_og_title = "Hugo Hero Theme"
+    meta_description = "SuFISHient Charters: See photos, check our rates, and book a fishing trip. Sailing out of Holland, Grand Haven, or Saugatuck on beautiful Lake Michigan."
+    meta_og_title = "SuFISHient Charters | Book your fishing trip | Holland, Michigan"
     meta_og_type = "website"
-    meta_og_url = "https://hugo-hero.netlify.app"
-    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"
-    meta_og_description = "Hero is a multipurpose Hugo theme with fullscreen hero images and page sections. It contains content types for a business or portfolio site."
-    meta_twitter_card = "summary"
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
+    meta_og_url = "https://www.sufishientcharters.com/"
+    meta_og_image = "https://www.sufishientcharters.com/wp-content/uploads/2017/09/IMG_2320.jpg"
+    meta_og_description = "SuFISHient Charters: see photos, check our rates, and book a fishing trip. Sailing out of Holland, Grand Haven, or Saugatuck on beautiful Lake Michigan."
+    meta_twitter_card = "summary_large_image"
+    meta_twitter_image = "https://www.sufishientcharters.com/wp-content/uploads/2017/09/IMG_2320.jpg"
+    meta_twitter_site = "@sufishientcharters"
+    meta_twitter_creator = "@sufishientcharters"
 
 [[menu.main]]
-	name = "Services"
-	url = "/services/"
+	name = "Charters"
+	url = "/charters/"
     weight = 1
 
 [[menu.main]]
-    name = "Work"
+    name = "Photos"
     url = "/work/"
     weight = 2
 
@@ -33,16 +33,15 @@ theme = "hugo-hero-theme"
     url = "/about/"
     weight = 3
 
-
 [[menu.main]]
-    name = "History"
+    name = "Location"
     url = "/history/"
-    weight = 3
+    weight = 4
 
 [[menu.main]]
-    name = "Contact"
+    name = "Book"
     url = "/contact/"
-    weight = 4
+    weight = 5
 
 [permalinks]
   post = "/:year/:month/:day/:slug/"
