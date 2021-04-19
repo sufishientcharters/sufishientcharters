@@ -1,7 +1,7 @@
 ---
 date: 2021-03-28T22:23:46-04:00
 draft: false
-featured: true
+featured: false
 weight: 1
 title: "Salmon Fishing on Lake Michigan"
 author: djtidball
