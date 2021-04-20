@@ -1,18 +1,9 @@
 ---
-title: 'About'
+title: "About"
 date: 2018-12-06T09:29:16+10:00
-layout: 'about'
-heroHeading: 'About Us'
-heroSubHeading: "Established in 1985, we're a team of advisors that puts your business first."
-heroBackground: 'https://source.unsplash.com/sO-JmQj95ec/1600x1000'
+layout: "about"
+heroHeading: "About Us"
+heroSubHeading: "We love boating, fishing, and sharing that excitement with you."
+heroBackground: "images/boat-prow_bw.jpg"
+heroBackgroundPosition: "bottom"
 ---
-
-<div>
-{{< content-strip-left "/pages/about" "content1" >}}
-</div>
-<div>
-{{< content-strip-right "/pages/about" "content2" >}}
-</div>
-<div>
-{{< content-strip-center "/pages/about" "content3" >}}
-</div>
