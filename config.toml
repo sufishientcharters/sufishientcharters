@@ -24,11 +24,6 @@ theme = "hero"
     weight = 1
 
 [[menu.main]]
-    name = "Photos"
-    url = "/work/"
-    weight = 2
-
-[[menu.main]]
     name = "About"
     url = "/about/"
     weight = 3
