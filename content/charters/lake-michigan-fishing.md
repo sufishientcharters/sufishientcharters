@@ -9,7 +9,7 @@ summary: "Guided tours fishing for lake & steelhead trout and salmon."
 heroHeading: "Lake Michigan Fishing"
 heroSubHeading: "Fish lake & steelhead trout and salmon in the open waters of Lake Michigan"
 heroBackground: "charters/lake-michigan-fishing-background.jpg"
-button: "Book a Trip"
+button: "Book a Charter"
 buttonLink: "book"
 ---
 
