@@ -10,7 +10,7 @@ heroHeading: "Boat Adventures"
 heroSubHeading: "Enjoy the beauty of Lake Michigan"
 heroBackground: "charters/boat-adventure-background.jpg"
 heroBackgroundPosition: "top"
-button: "Book a Trip"
+button: "Book a Charter"
 buttonLink: "book"
 ---
 

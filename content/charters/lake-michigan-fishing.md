@@ -5,15 +5,15 @@ icon: "charters/lake-michigan-fishing-icon.svg"
 draft: false
 featured: true
 weight: 1
-summary: "Guided tours fishing for lake trout, salmon, and steelhead."
+summary: "Guided tours fishing for lake & steelhead trout and salmon."
 heroHeading: "Lake Michigan Fishing"
-heroSubHeading: "Fish lake trout, salmon, and steelhead in the open waters of Lake Michigan"
+heroSubHeading: "Fish lake & steelhead trout and salmon in the open waters of Lake Michigan"
 heroBackground: "charters/lake-michigan-fishing-background.jpg"
-button: "Book a Trip"
+button: "Book a Charter"
 buttonLink: "book"
 ---
 
-Our Lake Michigan fishing charters depart from the Yacht Basin Marina on Lake Macatawa in Holland, Michigan. We fish for lake trout, salmon, and steelhead along the beautiful shores of Grand Haven, Holland, and Saugatuck.
+Our Lake Michigan fishing charters depart from the Yacht Basin Marina on Lake Macatawa in Holland, Michigan. We fish for lake & steelhead trout and salmon along the beautiful shores of Grand Haven, Holland, and Saugatuck.
 
 Charter fishing operates from mid-April through mid-October. We can accommodate groups of six (Coast Guard law).
 

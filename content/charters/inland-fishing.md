@@ -9,7 +9,7 @@ summary: "Non-stop action fishing Michigan's inland waterways."
 heroHeading: "Inland Fishing"
 heroSubHeading: "Fish West Michigan's inland waterways"
 heroBackground: "charters/inland-fishing-background.jpg"
-button: "Book a Trip"
+button: "Book a Charter"
 buttonLink: "book"
 ---
 
