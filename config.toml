@@ -4,7 +4,7 @@ title = "SuFISHient Charters"
 theme = "hero"
 
 [params]
-  google_analytics_id=""
+  google_api_key="AIzaSyAxhi0eUKEbhESQonfdcCqN4GP6bLtGjqw"
 
   [params.homepage_meta_tags]
     meta_description = "SuFISHient Charters: See photos, check our rates, and book a fishing trip. Sailing out of Holland, Grand Haven, or Saugatuck on beautiful Lake Michigan."
@@ -29,14 +29,9 @@ theme = "hero"
     weight = 3
 
 [[menu.main]]
-    name = "Location"
-    url = "/history/"
-    weight = 4
-
-[[menu.main]]
-    name = "Book"
+    name = "Contact"
     url = "/contact/"
-    weight = 5
+    weight = 4
 
 [permalinks]
   post = "/:year/:month/:day/:slug/"
