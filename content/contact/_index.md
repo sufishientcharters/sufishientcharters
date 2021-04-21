@@ -1,6 +1,5 @@
 ---
-title: 'Contact'
-date: 2018-02-22T17:01:34+07:00
+title: "Contact"
 ---
 
-We offer a free consultation for all new clients.
+We sail from the Yacht Basin Marina in Holland, Michigan. When you pull into the marina, look for the swimming pool and playground, park nearby, and find us at slip #C47, which is on the pier just across from the pool.

@@ -1,9 +1,12 @@
+fullName: "Jeff Keen"
 email: "info@sufishientcharters.com"
 phone: "1-616-886-9143"
 businessName: "SuFISHient Charters"
-address: |
-  1866 Ottawa Beach Road, Slip 47
-  Holland, MI 49424
+streetAddress: "1866 Ottawa Beach Road, Slip 47"
+locality: "Holland"
+region: "MI"
+postalCode: "49424"
+mapQuery: "Yacht Basin Marina,Holland MI"
 hours:
   - day: Monday
     open: 6am
