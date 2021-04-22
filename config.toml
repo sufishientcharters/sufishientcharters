@@ -33,6 +33,13 @@ theme = "hero"
     url = "/contact/"
     weight = 4
 
+[[menu.main]]
+    name = "Book"
+    url = "/book/"
+    weight = 5
+    [menu.main.params]
+        class = "cta"
+
 [permalinks]
   post = "/:year/:month/:day/:slug/"
   pages = "/:filename/"
