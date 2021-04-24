@@ -1,5 +1,6 @@
 ---
 title: "Meet Captain Jeff"
+date: 2021-04-24T19:06:00-04:00
 weight: 2
 heroHeading: The Captain
 heroBackground: "images/captain_bw.jpg"
