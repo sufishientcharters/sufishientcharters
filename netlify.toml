@@ -5,7 +5,7 @@
 [build.environment]
   HUGO_VERSION = "0.82.0"
   HUGO_THEME = "hero"
-  HUGO_BASEURL = "/"
+  HUGO_BASEURL = "https://sufishientcharters.com/"
 
 [[redirects]]
   from = "/*"
