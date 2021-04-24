@@ -1,6 +1,3 @@
-[submodule "themes/serif"]
-	path = themes/serif
-	url = https://github.com/zerostaticthemes/hugo-serif-theme
 [submodule "themes/hero"]
 	path = themes/hero
-	url = https://github.com/zerostaticthemes/hugo-hero-theme
+	url = https://github.com/sufishientcharters/hugo-hero-theme
