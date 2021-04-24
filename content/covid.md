@@ -1,4 +1,5 @@
 ---
+date: 2021-04-24T19:06:00-04:00
 title: "COVID-19 Safety Measures"
 heroHeading: "COVID-19 Safety Measures"
 heroSubHeading: "Our priorities: keeping our customers safe, having fun, and catching fish."

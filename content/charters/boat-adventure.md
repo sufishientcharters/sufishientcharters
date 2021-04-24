@@ -1,6 +1,6 @@
 ---
 title: "Boat Adventures"
-date: 2018-11-28T15:14:39+10:00
+date: 2021-04-24T19:06:00-04:00
 icon: "charters/boat-adventure-icon.svg"
 featured: true
 draft: false

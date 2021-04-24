@@ -1,5 +1,6 @@
 ---
 title: "Book"
+date: 2021-04-24T19:06:00-04:00
 ---
 
 ## No fish, no pay. It's as simple as that.
