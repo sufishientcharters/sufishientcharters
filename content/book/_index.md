@@ -3,9 +3,9 @@ title: "Book"
 date: 2021-04-24T19:06:00-04:00
 ---
 
-## No fish, no pay. It's as simple as that.
+## Come Sail With Us
 
-A $100 deposit is required up front. Custom charters available [upon request][1]. Multiple boat charters available if you have more than 6 people - just [drop us a line][1].
+A credit card number or $100 deposit is required up front. Custom charters available [upon request][1]. Multiple boat charters available if you have more than 6 people - just [drop us a line][1].
 
 ## Weather Cancellations
 
