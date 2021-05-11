@@ -17,6 +17,7 @@ Our multispecies inland tour: there's nothing quite like the non-stop action of 
 
 ## Packages
 
+- 2 hours: $300 1-4 people, $350 5-6 people
 - 3 hours: $400 1-4 people, $450 5-6 people
 
 ## What to Bring
