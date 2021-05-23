@@ -15,10 +15,12 @@
 [[plugins]]
   package = "netlify-plugin-add-instagram"
   [plugins.inputs]
+    # Session ID from a logged-in cookie
+    sessionID = "348198%3A750K15KMFeQYD5%3A2"
     # Where to put the image files
-    imageFolder = "src/images/instagram"
+    imageFolder = "static/photos"
     # Also stash data about the images in a json file
-    dataFile = "src/_data/instagram.json"
+    dataFile = "resources/_gen/instagram.json"
     # How many seconds should we cache the instagram feed for?
     feedTTL = 30
     # How many seconds should we cache each instagram image for?
@@ -27,6 +29,6 @@
     # t (thumbnail)
     # m (medium)
     # l (large)
-    imageSize = "m"
+    imageSize = "l"
     # Instagram username
     username = "sufishientcharters"

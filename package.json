@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "netlify-plugin-add-instagram": "^0.2.5"
+    "netlify-plugin-add-instagram": "github:kadams54/netlify-plugin-add-instagram"
   }
 }
