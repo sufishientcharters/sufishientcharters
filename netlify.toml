@@ -1,11 +1,10 @@
 [build]
   publish = "public"
-  command = "hugo"
+  command = "hugo -b $URL"
 
 [build.environment]
   HUGO_VERSION = "0.82.0"
   HUGO_THEME = "hero"
-  HUGO_BASEURL = "https://sufishientcharters.com/"
   NODE_VERSION = "14.17.0"
 
 [[redirects]]
