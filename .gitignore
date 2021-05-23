@@ -9,4 +9,5 @@
 .netlify
 
 # Netlify build plugins
+instagram.json
 /node_modules/
