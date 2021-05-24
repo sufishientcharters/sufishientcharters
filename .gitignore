@@ -1,6 +1,13 @@
-# Generated files by hugo
+# Generated files by Hugo
 /public/
-/resources/_gen/
+/resources/
+
+# Photos are pulled from Instagram during the build
+/static/photos/images/*.jp?g
 
 # Local Netlify folder
 .netlify
+
+# Netlify build plugins
+instagram.json
+/node_modules/
