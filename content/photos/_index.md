@@ -8,4 +8,4 @@ heroBackgroundPosition: "top"
 
 {{< load-photoswipe >}}
 
-{{< gallery dir="photos" />}}
+{{< gallery dir="photos/images" />}}

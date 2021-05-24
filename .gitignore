@@ -3,7 +3,7 @@
 /resources/
 
 # Photos are pulled from Instagram during the build
-/static/photos/*.jp?g
+/static/photos/images/*.jp?g
 
 # Local Netlify folder
 .netlify
