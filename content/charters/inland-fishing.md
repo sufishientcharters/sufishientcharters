@@ -11,6 +11,7 @@ heroSubHeading: "Fish West Michigan's inland waterways"
 heroBackground: "charters/inland-fishing-background.jpg"
 button: "Book a Charter"
 buttonLink: "book"
+fareharborId: 314424
 ---
 
 Our multispecies inland tour: there's nothing quite like the non-stop action of fishing for walleye, sheepshead, and other fish in West Michigan's inland waterways. This tour is an superb way to introduce kids to the joys of fishing!

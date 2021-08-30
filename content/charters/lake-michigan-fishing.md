@@ -11,6 +11,7 @@ heroSubHeading: "Fish lake & steelhead trout and salmon in the open waters of La
 heroBackground: "charters/lake-michigan-fishing-background.jpg"
 button: "Book a Charter"
 buttonLink: "book"
+fareharborId: 314451
 ---
 
 Our Lake Michigan fishing charters depart from the Yacht Basin Marina on Lake Macatawa in Holland, Michigan. We fish for lake & steelhead trout and salmon along the beautiful shores of Grand Haven, Holland, and Saugatuck.
