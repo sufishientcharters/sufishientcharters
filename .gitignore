@@ -1,6 +1,7 @@
 # Generated files by Hugo
 /public/
 /resources/
+.hugo_build.lock
 
 # Photos are pulled from Instagram during the build
 /static/photos/images/*.jp?g
