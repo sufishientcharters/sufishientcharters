@@ -18,8 +18,10 @@ Our multispecies inland tour: there's nothing quite like the non-stop action of 
 
 ## Packages
 
-- 2 hours: $300 1-4 people, $350 5-6 people
-- 3 hours: $400 1-4 people, $450 5-6 people
+- 2 hours: $350 1-4 people, $400 5-6 people
+- 3 hours: $450 1-4 people, $500 5-6 people
+
+Our apologies, but with gas prices rising so quickly, we may need to add a gas surcharge if prices get above $5/gallon.
 
 ## What to Bring
 
