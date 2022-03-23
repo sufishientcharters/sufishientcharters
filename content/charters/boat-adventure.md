@@ -29,10 +29,10 @@ Examples of various types of trips:
 ## Packages
 
 - 2 hours - $400
-- 3 hours - $550
-- 4 hours - $700
+- 3 hours - $575
+- 4 hours - $750
 
-Gas surcharges may apply for cruises traveling a long distance.
+Gas surcharges may apply for cruises traveling a long distance. Our apologies, but with gas prices rising so quickly, we may also need to adjust the gas surcharge if prices get above $5/gallon.
 
 ## What to Bring
 
