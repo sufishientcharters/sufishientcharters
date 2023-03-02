@@ -32,8 +32,6 @@ Examples of various types of trips:
 - 3 hours - $575
 - 4 hours - $750
 
-Gas surcharges may apply for cruises traveling a long distance. Our apologies, but with gas prices rising so quickly, we may also need to adjust the gas surcharge if prices get above $5/gallon.
-
 ## What to Bring
 
 Alcohol is permitted on the boat for anybody of legal age. That said, we do ask that no glass bottles be brought on the boat and that the alcohol be consumed in a responsible manner.
