@@ -20,13 +20,10 @@ Charter fishing operates from mid-April through mid-October. We can accommodate 
 
 ## Packages
 
-- 4 hours: $600 1-4 people, $700 5-6 people — Great choice for families with young kids. Weekdays only.
-- 5 hours: $650 1-4 people, $750 5-6 people
-- 6 hours: $700 1-4 people, $800 5-6 people — Most popular
-- 7 hours: $800 1-4 people, $900 5-6 people
+- 4 hours: $700 1-4 people, $800 5-6 people — Great choice for families with young kids. Weekdays only.
+- 5 hours: $750 1-4 people, $850 5-6 people
+- 6 hours: $800 1-4 people, $900 5-6 people — Most popular
 - 8 hours: $900 1-4 people, $1000 5-6 people
-
-Our apologies, but with gas prices rising so quickly, we may need to add a gas surcharge if prices get above $5/gallon.
 
 ## What to Bring
 

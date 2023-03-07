@@ -15,23 +15,23 @@ command = "hugo -b $DEPLOY_PRIME_URL/"
   to = "/404/"
   status = 404
 
-[[plugins]]
-  package = "netlify-plugin-add-instagram"
-  [plugins.inputs]
-    # Session ID from a logged-in cookie
-    sessionID = "348198%3A750K15KMFeQYD5%3A2"
-    # Where to put the image files
-    imageFolder = "static/photos/images"
-    # Also stash data about the images in a json file
-    dataFile = "instagram.json"
-    # How many seconds should we cache the instagram feed for?
-    feedTTL = 30
-    # How many seconds should we cache each instagram image for?
-    imageTTL = 1209600   # 2 weeks
-    # Which of Instagram's image sizes should we fetch?
-    # t (thumbnail)
-    # m (medium)
-    # l (large)
-    imageSize = "l"
-    # Instagram username
-    username = "sufishientcharters"
+#[[plugins]]
+#  package = "netlify-plugin-add-instagram"
+#  [plugins.inputs]
+#    # Session ID from a logged-in cookie
+#    sessionID = "348198%3A750K15KMFeQYD5%3A2"
+#    # Where to put the image files
+#    imageFolder = "static/photos/images"
+#    # Also stash data about the images in a json file
+#    dataFile = "instagram.json"
+#    # How many seconds should we cache the instagram feed for?
+#    feedTTL = 30
+#    # How many seconds should we cache each instagram image for?
+#    imageTTL = 1209600   # 2 weeks
+#    # Which of Instagram's image sizes should we fetch?
+#    # t (thumbnail)
+#    # m (medium)
+#    # l (large)
+#    imageSize = "l"
+#    # Instagram username
+#    username = "sufishientcharters"
