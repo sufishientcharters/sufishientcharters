@@ -32,7 +32,7 @@ collections:
     label: Reviews
     folder: content/reviews
     create: true
-    slug: "{{slug}}"
+    slug: "{{author}}"
     fields:
       - {label: Author Name, name: author, widget: string}
       - {label: Google Maps Review URL, name: permalink, widget: string}
@@ -89,6 +89,7 @@ collections:
           - {label: Title, name: title, widget: string}
           - {label: Hero Heading, name: heroHeading, widget: string}
           - {label: Hero Background Image, name: heroBackground, widget: image}
+          - {label: Hero Background Position, name: heroBackgroundPosition, widget: select, options: ["top", "center", "bottom"], default: "center", required: false}
           - {label: Bio, name: body, widget: markdown}
 
       - label: The Boat
@@ -98,6 +99,7 @@ collections:
           - {label: Title, name: title, widget: string}
           - {label: Hero Heading, name: heroHeading, widget: string}
           - {label: Hero Background Image, name: heroBackground, widget: image}
+          - {label: Hero Background Position, name: heroBackgroundPosition, widget: select, options: ["top", "center", "bottom"], default: "center", required: false}
           - {label: Description, name: body, widget: markdown}
 
   - name: contact
