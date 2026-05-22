@@ -2,7 +2,7 @@
 title: "The Boat"
 date: 2021-04-24T19:06:00-04:00
 weight: 3
-heroBackground: "images/boat_bw.jpg"
+heroBackground: "images/boat2_bw.jpg"
 heroHeading: The Boat
 heroBackgroundPosition: "center"
 ---
