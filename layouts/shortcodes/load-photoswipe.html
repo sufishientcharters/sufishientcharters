@@ -4,8 +4,8 @@ Documentation and licence at https://github.com/liwenyip/hugo-easy-gallery/
 -->
 
 <!-- prevent this shortcode from being loaded more than once per page -->
-{{ if not ($.Page.Scratch.Get "photoswipeloaded") }}
-{{ $.Page.Scratch.Set "photoswipeloaded" 1 }}
+{{ if not ($.Page.Store.Get "photoswipeloaded") }}
+{{ $.Page.Store.Set "photoswipeloaded" 1 }}
 
 <!-- Photoswipe css/js libraries -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css"
